@@ -48,6 +48,10 @@ user friendly interface design
 ornganised functionalities
 
 
+## what the UI looks like
+https://github.com/imfathimasana/project2/blob/master/Web%20capture_29-6-2022_12517_localhost.jpeg
+
+
 
 ## Getting Started with Create React App
 
