@@ -29,7 +29,8 @@ This app has the functionalities to organise and track your daily todos.
 ##  redux
 Redux is used for the better state management purpose. Installed using 'npm install redux react-redux @reduxjs/toolkit' command.
 1. Used connect from react redux.
-2. createSlice from @reduxjs/toolkit.
+2. configureStore,createSlice from @reduxjs/toolkit.
+
 
 ## react-icons
 Icons are from react-icons.Installed with command line 'npm i react-icons'
