@@ -1,4 +1,55 @@
-# Getting Started with Create React App
+# Todo App 
+This app has the functionalities to organise and track your daily todos.
+
+## user stories
+1. a user can add the tasks to the todolist
+2. a user can organise the tasks as completed and uncompleted.
+3. a user can edit the describtions inside the tasks textarea.
+4. a user can delete the completed and unwanted tasks from the todolist accordingly.
+
+## Instructions to run the app
+1. you can either fork the files or download and open in the folder in the command line
+2. now install all the reuired dependecies using 'npm install' or 'npm install' commands.
+3. cd in your directories 
+4. start the browser with 'npm start' command in your localhost
+
+## dependencies
+    "@reduxjs/toolkit": "^1.8.2",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "framer-motion": "^6.3.16",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "react-redux": "^8.0.2",
+    "react-scripts": "5.0.1",
+    "redux": "^4.2.0",
+    "web-vitals": "^2.1.4"
+##  redux
+Redux is used for the better state management purpose. Installed using 'npm install redux react-redux @reduxjs/toolkit' command.
+1. Used connect from react redux.
+2. createSlice from @reduxjs/toolkit.
+
+## react-icons
+Icons are from react-icons.Installed with command line 'npm i react-icons'
+ 1. AiFillEdit from "react-icons/ai".
+ 2. IoCheckmarkDoneSharp,IoClose,etc.. from "react-icons/io5".
+ 3.  GoPlus  from "react-icons/go".
+
+## framer-Motion
+Framer motion is used for the better animating and scroll purposes of the app's user interface.
+motion and animatepresence were imported in the components for the button and animate purposes.
+
+
+## Features of the app
+animted scrolls and pop ups
+user friendly interface design
+ornganised functionalities
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
